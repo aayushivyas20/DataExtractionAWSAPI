@@ -1,0 +1,12 @@
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionDto\bin\Release\net7.0\DataExtractionDto.deps.json
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionDto\bin\Release\net7.0\DataExtractionDto.dll
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionDto\bin\Release\net7.0\DataExtractionDto.pdb
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionDto\obj\Release\net7.0\DataExtractionDto.csproj.AssemblyReference.cache
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionDto\obj\Release\net7.0\DataExtractionDto.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionDto\obj\Release\net7.0\DataExtractionDto.AssemblyInfoInputs.cache
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionDto\obj\Release\net7.0\DataExtractionDto.AssemblyInfo.cs
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionDto\obj\Release\net7.0\DataExtractionDto.csproj.CoreCompileInputs.cache
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionDto\obj\Release\net7.0\DataExtractionDto.dll
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionDto\obj\Release\net7.0\refint\DataExtractionDto.dll
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionDto\obj\Release\net7.0\DataExtractionDto.pdb
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionDto\obj\Release\net7.0\ref\DataExtractionDto.dll

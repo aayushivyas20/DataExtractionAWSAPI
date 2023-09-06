@@ -1,0 +1,17 @@
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionRepository\bin\Debug\net7.0\DataExtractionRepository.deps.json
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionRepository\bin\Debug\net7.0\DataExtractionRepository.dll
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionRepository\bin\Debug\net7.0\DataExtractionRepository.pdb
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionRepository\bin\Debug\net7.0\DataExtractionAWSData.dll
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionRepository\bin\Debug\net7.0\DataExtractionDomain.dll
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionRepository\bin\Debug\net7.0\DataExtractionAWSData.pdb
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionRepository\bin\Debug\net7.0\DataExtractionDomain.pdb
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionRepository\obj\Debug\net7.0\DataExtractionRepository.csproj.AssemblyReference.cache
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionRepository\obj\Debug\net7.0\DataExtractionRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionRepository\obj\Debug\net7.0\DataExtractionRepository.AssemblyInfoInputs.cache
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionRepository\obj\Debug\net7.0\DataExtractionRepository.AssemblyInfo.cs
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionRepository\obj\Debug\net7.0\DataExtractionRepository.csproj.CoreCompileInputs.cache
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionRepository\obj\Debug\net7.0\DataExtractionRepository.csproj.CopyComplete
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionRepository\obj\Debug\net7.0\DataExtractionRepository.dll
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionRepository\obj\Debug\net7.0\refint\DataExtractionRepository.dll
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionRepository\obj\Debug\net7.0\DataExtractionRepository.pdb
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionRepository\obj\Debug\net7.0\ref\DataExtractionRepository.dll

@@ -1,0 +1,496 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionAWSAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionAWSAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionAWSAPI.csproj",
+        "projectName": "DataExtractionAWSAPI",
+        "projectPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionAWSAPI.csproj",
+        "packagesPath": "C:\\Users\\baps\\.nuget\\packages\\",
+        "outputPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\baps\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\baps\\Documents\\TMSSoftware\\FlexCelNET\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionAWSData\\DataExtractionAWSData.csproj": {
+                "projectPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionAWSData\\DataExtractionAWSData.csproj"
+              },
+              "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionRepository\\DataExtractionRepository.csproj": {
+                "projectPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionRepository\\DataExtractionRepository.csproj"
+              },
+              "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionService\\DataExtractionService.csproj": {
+                "projectPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionService\\DataExtractionService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionAWSData\\DataExtractionAWSData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionAWSData\\DataExtractionAWSData.csproj",
+        "projectName": "DataExtractionAWSData",
+        "projectPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionAWSData\\DataExtractionAWSData.csproj",
+        "packagesPath": "C:\\Users\\baps\\.nuget\\packages\\",
+        "outputPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionAWSData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\baps\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\baps\\Documents\\TMSSoftware\\FlexCelNET\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionDomain\\DataExtractionDomain.csproj": {
+                "projectPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionDomain\\DataExtractionDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionDomain\\DataExtractionDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionDomain\\DataExtractionDomain.csproj",
+        "projectName": "DataExtractionDomain",
+        "projectPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionDomain\\DataExtractionDomain.csproj",
+        "packagesPath": "C:\\Users\\baps\\.nuget\\packages\\",
+        "outputPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\baps\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\baps\\Documents\\TMSSoftware\\FlexCelNET\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionDto\\DataExtractionDto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionDto\\DataExtractionDto.csproj",
+        "projectName": "DataExtractionDto",
+        "projectPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionDto\\DataExtractionDto.csproj",
+        "packagesPath": "C:\\Users\\baps\\.nuget\\packages\\",
+        "outputPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionDto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\baps\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\baps\\Documents\\TMSSoftware\\FlexCelNET\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionInfra\\DataExtractionInfra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionInfra\\DataExtractionInfra.csproj",
+        "projectName": "DataExtractionInfra",
+        "projectPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionInfra\\DataExtractionInfra.csproj",
+        "packagesPath": "C:\\Users\\baps\\.nuget\\packages\\",
+        "outputPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionInfra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\baps\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\baps\\Documents\\TMSSoftware\\FlexCelNET\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionRepository\\DataExtractionRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionRepository\\DataExtractionRepository.csproj",
+        "projectName": "DataExtractionRepository",
+        "projectPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionRepository\\DataExtractionRepository.csproj",
+        "packagesPath": "C:\\Users\\baps\\.nuget\\packages\\",
+        "outputPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\baps\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\baps\\Documents\\TMSSoftware\\FlexCelNET\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionAWSData\\DataExtractionAWSData.csproj": {
+                "projectPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionAWSData\\DataExtractionAWSData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionService\\DataExtractionService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionService\\DataExtractionService.csproj",
+        "projectName": "DataExtractionService",
+        "projectPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionService\\DataExtractionService.csproj",
+        "packagesPath": "C:\\Users\\baps\\.nuget\\packages\\",
+        "outputPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\baps\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\baps\\Documents\\TMSSoftware\\FlexCelNET\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionDto\\DataExtractionDto.csproj": {
+                "projectPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionDto\\DataExtractionDto.csproj"
+              },
+              "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionInfra\\DataExtractionInfra.csproj": {
+                "projectPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionInfra\\DataExtractionInfra.csproj"
+              },
+              "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionRepository\\DataExtractionRepository.csproj": {
+                "projectPath": "D:\\DataExtractionAWSAPI\\DataExtractionAWSAPI\\DataExtractionRepository\\DataExtractionRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.203.7, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

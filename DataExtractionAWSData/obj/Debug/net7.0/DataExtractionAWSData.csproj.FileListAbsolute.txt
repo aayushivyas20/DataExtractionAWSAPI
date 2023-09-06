@@ -1,0 +1,15 @@
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionAWSData\bin\Debug\net7.0\DataExtractionAWSData.deps.json
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionAWSData\bin\Debug\net7.0\DataExtractionAWSData.dll
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionAWSData\bin\Debug\net7.0\DataExtractionAWSData.pdb
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionAWSData\bin\Debug\net7.0\DataExtractionDomain.dll
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionAWSData\bin\Debug\net7.0\DataExtractionDomain.pdb
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionAWSData\obj\Debug\net7.0\DataExtractionAWSData.csproj.AssemblyReference.cache
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionAWSData\obj\Debug\net7.0\DataExtractionAWSData.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionAWSData\obj\Debug\net7.0\DataExtractionAWSData.AssemblyInfoInputs.cache
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionAWSData\obj\Debug\net7.0\DataExtractionAWSData.AssemblyInfo.cs
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionAWSData\obj\Debug\net7.0\DataExtractionAWSData.csproj.CoreCompileInputs.cache
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionAWSData\obj\Debug\net7.0\DataExtractionAWSData.csproj.CopyComplete
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionAWSData\obj\Debug\net7.0\DataExtractionAWSData.dll
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionAWSData\obj\Debug\net7.0\refint\DataExtractionAWSData.dll
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionAWSData\obj\Debug\net7.0\DataExtractionAWSData.pdb
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionAWSData\obj\Debug\net7.0\ref\DataExtractionAWSData.dll

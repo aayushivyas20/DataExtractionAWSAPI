@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Gr3+Y1zdY0ns4zS7QaI6ztgsnEfix6jyENiZ53St65E=",
+  "Source": "DataExtractionAWSAPI",
+  "BasePath": "_content/DataExtractionAWSAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

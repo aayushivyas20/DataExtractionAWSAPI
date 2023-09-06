@@ -1,0 +1,12 @@
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionInfra\bin\Debug\net7.0\DataExtractionInfra.deps.json
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionInfra\bin\Debug\net7.0\DataExtractionInfra.dll
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionInfra\bin\Debug\net7.0\DataExtractionInfra.pdb
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionInfra\obj\Debug\net7.0\DataExtractionInfra.csproj.AssemblyReference.cache
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionInfra\obj\Debug\net7.0\DataExtractionInfra.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionInfra\obj\Debug\net7.0\DataExtractionInfra.AssemblyInfoInputs.cache
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionInfra\obj\Debug\net7.0\DataExtractionInfra.AssemblyInfo.cs
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionInfra\obj\Debug\net7.0\DataExtractionInfra.csproj.CoreCompileInputs.cache
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionInfra\obj\Debug\net7.0\DataExtractionInfra.dll
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionInfra\obj\Debug\net7.0\refint\DataExtractionInfra.dll
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionInfra\obj\Debug\net7.0\DataExtractionInfra.pdb
+D:\DataExtractionAWSAPI\DataExtractionAWSAPI\DataExtractionInfra\obj\Debug\net7.0\ref\DataExtractionInfra.dll

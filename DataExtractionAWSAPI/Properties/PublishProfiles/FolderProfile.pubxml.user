@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\deployment\Aws</_PublishTargetUrl>
+    <History>True|2023-09-06T06:56:20.0041668Z;True|2023-09-06T11:41:08.4728347+05:30;True|2023-09-05T18:48:29.3833267+05:30;True|2023-09-05T18:46:01.2812440+05:30;True|2023-09-05T18:32:19.9066771+05:30;True|2023-09-05T18:08:52.1769188+05:30;True|2023-09-05T17:57:40.1772212+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
